@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "D": {
+      "item": "irons_spellbooks:dragonskin"
+    },
+    "L": {
+      "item": "irons_spellbooks:lesser_spell_slot_upgrade"
+    }
+  },
+  "pattern": [
+    "DCD",
+    "DLD",
+    "DCD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "magicnstuff:greater_spell_slot_upgrade"
+  }
+}
