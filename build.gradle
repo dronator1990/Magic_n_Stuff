@@ -109,7 +109,7 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 
 dependencies {
-    implementation "io.redspace:irons_spellbooks:${irons_spells_version}"
+    implementation "io.redspace:irons_spellbooks:${minecraft_version}-${irons_spells_version}"
 
     implementation "top.theillusivec4.curios:curios-neoforge:${curios_version}+${minecraft_version}"
 

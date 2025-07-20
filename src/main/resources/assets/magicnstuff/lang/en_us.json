@@ -1,3 +1,8 @@
 {
-  "item.magicnstuff.greater_spell_slot_upgrade": "Greater Spell Slot Upgrade"
+  "itemGroup.magicnstuff": "Magic n Stuff",
+
+  "item.magicnstuff.greater_spell_slot_upgrade": "Greater Spell Slot Upgrade",
+
+  "item.magicnstuff.greater_mana_ring": "Greater Mana Ring",
+  "item.magicnstuff.superior_mana_ring": "Superior Mana Ring"
 }
